@@ -21,7 +21,7 @@ This project is an experimental, non-commercial exploration and not a medical pr
 Development and prototyping are currently self-funded.
 
 A public project page documenting progress and funding for prototyping can be found here:  
-👉 **[GoFundMe link einfügen]**
+👉 **https://gofund.me/07fd5ad6a**
 
 ## Notes
 This repository is used to document progress and ideas. Code may be experimental and incomplete.
